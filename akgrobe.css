@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Akzidenz Grotesk';
-    src: url('https://cdn.rawgit.com/barrettbreshears/front-end/blob/master/resources/fonts/Berthold%20Akzidenz%20Grotesk%20BE/Berthold%20Akzidenz%20Grotesk%20BE%20Regular.otf');
+    src: url('https://raw.githubusercontent.com/barrettbreshears/front-end/blob/master/resources/fonts/Berthold%20Akzidenz%20Grotesk%20BE/Berthold%20Akzidenz%20Grotesk%20BE%20Regular.otf');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Akzidenz Grotesk';
-    src: url('https://cdn.rawgit.com/barrettbreshears/front-end/blob/master/resources/fonts/Berthold%20Akzidenz%20Grotesk%20BE/Berthold%20Akzidenz%20Grotesk%20BE%20Super.otf');
+    src: url('https://raw.githubusercontent.com/barrettbreshears/front-end/blob/master/resources/fonts/Berthold%20Akzidenz%20Grotesk%20BE/Berthold%20Akzidenz%20Grotesk%20BE%20Super.otf');
     font-weight: 900;
     font-style: normal;
 }
